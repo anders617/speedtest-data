@@ -20,4 +20,4 @@ done
 echo "  </ul>"
 echo "</ul>"
 echo "</body>"
-echo "<\html>"
+echo "</html>"
