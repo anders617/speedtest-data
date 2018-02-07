@@ -15,7 +15,7 @@ for file in "$root"/*/*/*; do
         echo "  <li> $parent </li>" && oldparent="$parent"
         echo "  <ul>"
     fi
-    echo "    <li><a href=\"$parentpath\">$filename</a></li>"
+    echo "    <li><a href=\"$parentpath\" target=\"_blank\">$filename</a></li>"
 done
 echo "  </ul>"
 echo "</ul>"
