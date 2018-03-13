@@ -1,9 +1,10 @@
-Byte Volume: 837878
-Num Packets Sent:876
-First Packet Time Relative To Video Start:-0.308050870895
-Inter Arrival Time Mean: 0.00805307116242
-Inter Arrival Time Median: 9.60826873779e-05
-Inter Arrival Time Standard Deviation: 0.167133695544
-Number of Connections: 94
-Number of Servers Contacted: 72
-Speed Index: 872
+Byte Volume: 513898
+Num Packets Sent:558
+Num Packets Received:530
+First Packet Time Relative To Video Start:-8.90176606178
+Inter Arrival Time Mean: 0.0373191950677
+Inter Arrival Time Median: 0.000485897064209
+Inter Arrival Time Standard Deviation: 0.393658518415
+Number of Connections: 74
+Number of Servers Contacted: 52
+Speed Index: 571
